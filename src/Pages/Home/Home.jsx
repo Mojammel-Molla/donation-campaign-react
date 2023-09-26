@@ -12,7 +12,7 @@ const Home = () => {
       <h1 className=" sm:text-3xl lg:text-5xl font-bold text-center my-10 underline">
         All Donation Categories
       </h1>
-      <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 max-w-7xl mx-auto">
+      <div className="grid max-w-7xl mx-auto sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3  ">
         {donations?.map(donation => (
           <Donation key={donation} donation={donation}></Donation>
         ))}
