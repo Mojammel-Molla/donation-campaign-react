@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 
 const DonatedItem = ({ donate }) => {
   const {
+    id,
     card_bg_color,
     category,
     category_bg_color,
@@ -39,7 +40,7 @@ const DonatedItem = ({ donate }) => {
           >
             ${price}
           </h3>
-          <Link>
+          <Link to={`/donation/${id}`}>
             <button
               style={{ backgroundColor: `${text_button_bg_color}` }}
               className="flex select-none items-center gap-2 rounded-lg py-3 px-6 text-center align-middle  text-xl font-bold  disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none text-white"
