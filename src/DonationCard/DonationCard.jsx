@@ -21,12 +21,15 @@ const DonationCard = () => {
     if (!donateItem) {
       addDonationArray.push(donation);
       localStorage.setItem('donated', JSON.stringify(addDonationArray));
+      swal('Good job!', 'You have donated successfully!', 'success');
     } else {
       const isExists = donateItem.find(donate => donate.id == id);
       if (isExists) {
+        swal('Error!', 'You have already donated!', 'error');
       } else {
         addDonationArray.push(...donateItem, donation);
         localStorage.setItem('donated', JSON.stringify(addDonationArray));
+        swal('Good job!', 'You have donated successfully!', 'success');
       }
     }
   };
