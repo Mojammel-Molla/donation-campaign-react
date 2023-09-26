@@ -1,134 +1,134 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "picture": "https://i.ibb.co/ckYKjFZ/Health.png",
     "title": "Education Fund",
     "category": "Education",
     "category_bg_color": "#3498db",
     "card_bg_color": "#ecf0f1",
     "text_button_bg_color": "#2ecc71",
-    "description": "Support education initiatives to empower future generations.",
-    "price": "$50.00"
+    "description": "Support education initiatives to empower future generations. Your contribution will help provide access to quality education, scholarships, and educational resources for underprivileged children and youth.",
+    "price": 50
   },
   {
-    "id": "2",
+    "id": 2,
     "picture": "https://i.ibb.co/X7KP1Hg/Education.png",
     "title": "Medical Relief",
     "category": "Healthcare",
     "category_bg_color": "#e74c3c",
     "card_bg_color": "#f2dede",
     "text_button_bg_color": "#d9534f",
-    "description": "Provide medical aid and relief to those in need.",
-    "price": "$100.00"
+    "description": "Provide medical aid and relief to those in need. Your donation will support medical clinics, provide essential medications, and contribute to life-saving treatments for individuals facing health challenges.",
+    "price": 100
   },
   {
-    "id": "3",
+    "id": 3,
     "picture": "https://i.ibb.co/FYtmNhY/Clothing.png",
     "title": "Animal Welfare",
     "category": "Animals",
     "category_bg_color": "#2ecc71",
     "card_bg_color": "#dff0d8",
     "text_button_bg_color": "#5bc0de",
-    "description": "Support organizations dedicated to the welfare of animals.",
-    "price": "$25.00"
+    "description": "Support organizations dedicated to the welfare of animals. Your contribution will help rescue and care for animals in need, promote animal rights, and work towards creating a safer and more humane world for all creatures.",
+    "price": 25
   },
   {
-    "id": "4",
+    "id": 4,
     "picture": "https://i.ibb.co/55j3HZx/Food.png",
     "title": "Hunger Relief",
     "category": "Community",
     "category_bg_color": "#f1c40f",
     "card_bg_color": "#fcf8e3",
     "text_button_bg_color": "#f7dc6f",
-    "description": "Help fight hunger and food insecurity in your community.",
-    "price": "$30.00"
+    "description": "Help fight hunger and food insecurity in your community. Your donation will support food banks, meal programs, and initiatives that ensure no one goes to bed hungry, making a difference in the lives of those in need.",
+    "price": 30
   },
   {
-    "id": "5",
+    "id": 5,
     "picture": "https://i.ibb.co/55j3HZx/Food.png",
     "title": "Environmental Conservation",
     "category": "Environment",
     "category_bg_color": "#9b59b6",
     "card_bg_color": "#f5e7e4",
     "text_button_bg_color": "#d98880",
-    "description": "Contribute to preserving our planet's natural resources.",
-    "price": "$75.00"
+    "description": "Contribute to preserving our planet's natural resources. Your donation will support reforestation efforts, wildlife conservation, and sustainable practices that protect our environment for future generations.",
+    "price": 75
   },
   {
-    "id": "6",
+    "id": 6,
     "picture": "https://i.ibb.co/FYtmNhY/Clothing.png",
     "title": "Arts and Culture",
     "category": "Arts",
     "category_bg_color": "#e67e22",
     "card_bg_color": "#fbeed5",
     "text_button_bg_color": "#f0ad4e",
-    "description": "Support the arts and cultural initiatives in your community.",
-    "price": "$40.00"
+    "description": "Support the arts and cultural initiatives in your community. Your donation will help fund art programs, exhibitions, and cultural events that enrich the lives of individuals and promote creativity.",
+    "price": 40
   },
   {
-    "id": "7",
+    "id": 7,
     "picture": "https://i.ibb.co/X7KP1Hg/Education.png",
     "title": "Disaster Relief",
     "category": "Emergency",
     "category_bg_color": "#1abc9c",
     "card_bg_color": "#d9edf7",
     "text_button_bg_color": "#5bc0de",
-    "description": "Assist in providing relief to communities affected by disasters.",
-    "price": "$50.00"
+    "description": "Assist in providing relief to communities affected by disasters. Your donation will support disaster response teams, provide emergency supplies, and aid in rebuilding communities in times of crisis.",
+    "price": 50
   },
   {
-    "id": "8",
+    "id": 8,
     "picture": "https://i.ibb.co/ckYKjFZ/Health.png",
     "title": "Children's Welfare",
     "category": "Children",
     "category_bg_color": "#3498db",
     "card_bg_color": "#ecf0f1",
     "text_button_bg_color": "#2ecc71",
-    "description": "Support initiatives that enhance the well-being of children.",
-    "price": "$35.00"
+    "description": "Support initiatives that enhance the well-being of children. Your donation will help provide access to education, healthcare, and a safe environment for children to thrive and fulfill their potential.",
+    "price": 35
   },
   {
-    "id": "9",
+    "id": 9,
     "picture": "https://i.ibb.co/ckYKjFZ/Health.png",
     "title": "Elderly Care",
     "category": "Seniors",
     "category_bg_color": "#e74c3c",
     "card_bg_color": "#f2dede",
     "text_button_bg_color": "#d9534f",
-    "description": "Assist in providing care and support for elderly individuals.",
-    "price": "$20.00"
+    "description": "Assist in providing care and support for elderly individuals. Your donation will help fund senior care programs, promote healthy aging, and improve the quality of life for seniors in your community.",
+    "price": 20
   },
   {
-    "id": "10",
+    "id": 10,
     "picture": "https://i.ibb.co/X7KP1Hg/Education.png",
     "title": "Gender Equality",
     "category": "Equality",
     "category_bg_color": "#2ecc71",
     "card_bg_color": "#dff0d8",
     "text_button_bg_color": "#5bc0de",
-    "description": "Promote gender equality and empower women and girls.",
-    "price": "$60.00"
+    "description": "Promote gender equality and empower women and girls. Your donation will support initiatives that break down gender barriers, promote equal opportunities, and create a more equitable society.",
+    "price": 60
   },
   {
-    "id": "11",
+    "id": 11,
     "picture": "https://i.ibb.co/FYtmNhY/Clothing.png",
     "title": "Youth Empowerment",
     "category": "Youth",
     "category_bg_color": "#f1c40f",
     "card_bg_color": "#fcf8e3",
     "text_button_bg_color": "#f7dc6f",
-    "description": "Support programs that empower the youth for a brighter future.",
-    "price": "$45.00"
+    "description": "Empower the youth for a brighter future. Your donation will help provide education, mentorship, and resources to young individuals, enabling them to reach their full potential. Your support can inspire the leaders of tomorrow.",
+    "price": 45
   },
   {
-    "id": "12",
+    "id": 12,
     "picture": "https://i.ibb.co/55j3HZx/Food.png",
     "title": "Cancer Research",
     "category": "Healthcare",
     "category_bg_color": "#9b59b6",
     "card_bg_color": "#f5e7e4",
     "text_button_bg_color": "#d98880",
-    "description": "Contribute to research and treatment of cancer patients.",
-    "price": "$80.00"
+    "description": "Contribute to research and treatment of cancer patients. Your donation will support cancer research, patient care, and the fight against one of the most challenging diseases affecting individuals and families.",
+    "price": 80
   }
 ]

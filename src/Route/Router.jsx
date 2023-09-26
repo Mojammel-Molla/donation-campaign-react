@@ -2,9 +2,10 @@ import { createBrowserRouter } from 'react-router-dom';
 import MainLayout from '../Layout/MainLayout';
 import Home from '../Pages/Home/Home';
 import ErrorPage from '../Pages/ErrorPage/ErrorPage';
-import Donation from '../Pages/Donation/Donation';
+// import Donation from '../Pages/Donation/Donation';
 import Statistics from '../Pages/Statistics/Statistics';
 import DonationCard from '../DonationCard/DonationCard';
+import DonatedItems from '../DonatedItems/DonatedItems';
 
 const Router = createBrowserRouter([
   {
@@ -19,7 +20,7 @@ const Router = createBrowserRouter([
       },
       {
         path: '/donation',
-        element: <Donation></Donation>,
+        element: <DonatedItems></DonatedItems>,
       },
       {
         path: '/statistics',
