@@ -18,7 +18,7 @@ const DonatedItems = () => {
 
   return (
     <div>
-      <h1 className="text-center lg:text-5xl font-bold pb-5">
+      <h1 className="text-center lg:text-4xl font-bold pb-5">
         All Donated Items
       </h1>
       {noDataFound ? (

@@ -35,20 +35,21 @@ const DonationCard = () => {
   };
 
   return (
-    <div>
+    <div className="max-w-7xl">
       <div>
-        <img className=" rounded-lg relative h-[80vh] w-full" src={picture} />
-        <div className="">
-          <button
-            onClick={handleAddDonate}
-            style={{
-              backgroundColor: `${text_button_bg_color}`,
-            }}
-            className="absolute text-white font-medium px-5 py-2 rounded-lg  sm:left-[18%] md:bottom-2 md:left-3 lg:bottom-[12%] lg:left-[18%]"
-          >
-            Donate${price}
-          </button>
+        <div>
+          <img className=" rounded-lg relative h-[78vh] w-full" src={picture} />
         </div>
+        <div className="absolute  lg:left-[17%] lg:bottom-[12%] bg-black lg:h-20 opacity-30 lg:w-[1270px]"></div>
+        <button
+          onClick={handleAddDonate}
+          style={{
+            backgroundColor: `${text_button_bg_color}`,
+          }}
+          className=" absolute text-white font-medium px-5 py-2 rounded-lg  left-[18%] bottom-[14%]   "
+        >
+          Donate${price}
+        </button>
       </div>
 
       <div className="mt-5">
